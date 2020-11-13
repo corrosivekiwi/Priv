@@ -1,0 +1,82 @@
+{
+    "c2array": true,
+    "size": [
+        9,
+        2,
+        1
+    ],
+    "data": [
+        [
+            [
+                "HINT: Focus carefully on the list and avoid distractions."
+            ],
+            [
+                "HINT: Focus carefully on the list and avoid distractions."
+            ]
+        ],
+        [
+            [
+                "HINT: Repeat list to yourself several times."
+            ],
+            [
+                "HINT: Repeat list to yourself several times."
+            ]
+        ],
+        [
+            [
+                "HINT: Group the items in some way, e.g. fruit, dairy, meat."
+            ],
+            [
+                "HINT: Group the items in some way, e.g. fruit, dairy, meat."
+            ]
+        ],
+        [
+            [
+                "HINT: Try using alphabetical order for the items."
+            ],
+            [
+                "HINT: Try using alphabetical order for the items."
+            ]
+        ],
+        [
+            [
+                "You're now halfway to the end!"
+            ],
+            [
+                "Don't give up; you almost had it!"
+            ]
+        ],
+        [
+            [
+                "HINT: Try to visualise the items on your list."
+            ],
+            [
+                "HINT: Try to visualise the items on your list."
+            ]
+        ],
+        [
+            [
+                "HINT: Recite the list out loud until you don't need to refer to the list."
+            ],
+            [
+                "HINT: Recite the list out loud until you don't need to refer to the list."
+            ]
+        ],
+        [
+            [
+                "Hey! You're doing well! Now challenge yourself with these super levels!"
+            ],
+            [
+                "This is a difficult one. Try again!"
+            ]
+        ],
+        [
+            [
+                "You are quite the genius!"
+            ],
+            [
+                "Don't Give up! You're so close to finishing!"
+            ]
+        ]
+    ]
+}
